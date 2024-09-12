@@ -1,0 +1,21 @@
+{
+  "name": "mvvm-todomvc",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vite": "^5.4.1",
+    "vitest": "^2.0.5"
+  },
+  "dependencies": {
+    "haunted": "^5.0.0",
+    "lit": "^3.2.0",
+    "zod": "^3.23.8"
+  }
+}
